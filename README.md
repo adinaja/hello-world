@@ -1,5 +1,4 @@
 # hello-world
-git hello-world readme asdfasdfasdfasdf
+GitHub hello-world
 
-asfasdfasdfasdfasdf more adfasdfasdfasdf
-even more asdfasdfasdfasdfasdf
+This is just for testing purposes...
